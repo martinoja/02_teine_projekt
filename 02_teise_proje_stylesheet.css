@@ -1,0 +1,64 @@
+#backwall {
+    background-image: linear-gradient(to left, #FFFFCC, greenyellow);
+    overflow: hidden;
+    height: 100%;
+}
+
+#kollanekiri {
+    font-size: 150px; color: #FFFFCC;
+
+    }
+
+#vasak {float:left; margin-top: 100px; margin-left: 100px}
+#parem {float:right; margin-top: 100px; margin-right: 100px; clear: both;
+}
+
+#rohelinekiri {
+    font-size: 150px; color: greenyellow;
+
+}
+
+#esimene_kera {width: 200px;
+    height: 200px;
+    background: red;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    }
+
+#teine_kera {
+    width: 200px;
+    height: 200px;
+    background: lightblue;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    box-shadow: 10px 10px 5px black;
+}
+
+#kolmas_kera {width: 200px;
+    height: 200px;
+    background: goldenrod;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+}
+
+#neljas_kera {width: 200px;
+    height: 200px;
+    background: lightpink;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    box-shadow: 10px 10px 5px black;
+}
+
+a {
+     text-decoration: none;
+     color: inherit;
+}
+
+#teise_tagataust {
+
+    background-image: url("http://starmoz.com/images/audi-q7-2013-10.jpg");
+    background-size: 100% ;
+    background-repeat: no-repeat;
+}
+
+table {margin-top: 200px; margin-left: 200px;}
